@@ -1,0 +1,695 @@
+2024-03-07 21:55:15,490 - INFO - starting app
+2024-03-07 21:55:32,783 - INFO - Starting ................
+2024-03-07 21:55:32,788 - INFO - ended. process_time: 0.0020096302032470703
+2024-03-07 21:55:43,300 - INFO - Starting ................
+2024-03-07 21:55:43,300 - INFO - ended. process_time: 0.0
+2024-03-07 21:55:43,841 - INFO - Starting ................
+2024-03-07 21:55:43,866 - INFO - ended. process_time: 0.022336244583129883
+2024-03-08 14:05:12,730 - INFO - starting app
+2024-03-08 14:05:20,538 - INFO - Starting ................
+2024-03-08 14:05:20,634 - INFO - ended. process_time: 0.016001224517822266
+2024-03-08 14:05:21,505 - INFO - Starting ................
+2024-03-08 14:05:21,540 - INFO - ended. process_time: 0.016000032424926758
+2024-03-08 14:12:26,150 - INFO - Starting ................
+2024-03-08 14:12:26,150 - INFO - ended. process_time: 0.0
+2024-03-08 14:16:05,580 - INFO - starting app
+2024-03-08 14:16:08,511 - INFO - starting app
+2024-03-08 14:16:10,441 - INFO - starting app
+2024-03-08 14:16:35,228 - INFO - starting app
+2024-03-08 14:16:37,010 - INFO - starting app
+2024-03-08 15:38:47,664 - INFO - starting app
+2024-03-08 15:53:55,733 - INFO - starting app
+2024-03-08 15:53:57,605 - INFO - starting app
+2024-03-08 16:02:44,859 - INFO - Starting ................
+2024-03-08 16:02:44,867 - INFO - ended. process_time: 0.008085250854492188
+2024-03-08 16:02:45,484 - INFO - Starting ................
+2024-03-08 16:02:45,509 - INFO - ended. process_time: 0.02393507957458496
+2024-03-08 16:02:51,502 - INFO - Starting ................
+2024-03-08 16:02:51,502 - INFO - ended. process_time: 0.0
+2024-03-08 16:02:51,772 - INFO - Starting ................
+2024-03-08 16:02:51,772 - INFO - ended. process_time: 0.0
+2024-03-08 16:03:15,703 - INFO - Starting ................
+2024-03-08 16:03:15,705 - INFO - ended. process_time: 0.0009963512420654297
+2024-03-08 16:03:15,866 - INFO - Starting ................
+2024-03-08 16:03:15,868 - INFO - ended. process_time: 0.0
+2024-03-08 16:03:42,130 - INFO - Starting ................
+2024-03-08 16:03:42,140 - INFO - ended. process_time: 0.0095062255859375
+2024-03-08 16:09:30,983 - INFO - starting app
+2024-03-08 16:11:10,583 - INFO - starting app
+2024-03-08 16:11:13,670 - INFO - Starting ................
+2024-03-08 16:11:13,684 - INFO - ended. process_time: 0.0015807151794433594
+2024-03-08 16:11:13,948 - INFO - Starting ................
+2024-03-08 16:11:13,965 - INFO - ended. process_time: 0.014960527420043945
+2024-03-08 16:11:17,955 - INFO - Starting ................
+2024-03-08 16:11:17,955 - INFO - ended. process_time: 0.0
+2024-03-08 16:11:18,206 - INFO - Starting ................
+2024-03-08 16:11:18,208 - INFO - ended. process_time: 0.0009958744049072266
+2024-03-08 16:11:21,052 - INFO - Starting ................
+2024-03-08 16:11:21,052 - INFO - ended. process_time: 0.0
+2024-03-08 16:11:21,235 - INFO - Starting ................
+2024-03-08 16:11:21,237 - INFO - ended. process_time: 0.0014395713806152344
+2024-03-08 16:11:48,630 - INFO - Starting ................
+2024-03-08 16:11:48,633 - INFO - ended. process_time: 0.0022733211517333984
+2024-03-08 16:12:23,842 - INFO - starting app
+2024-03-08 16:12:25,963 - INFO - starting app
+2024-03-08 16:12:27,946 - INFO - starting app
+2024-03-08 16:12:31,576 - INFO - starting app
+2024-03-08 16:12:36,454 - INFO - starting app
+2024-03-08 16:12:38,369 - INFO - starting app
+2024-03-08 16:12:45,389 - INFO - starting app
+2024-03-08 16:12:50,455 - INFO - starting app
+2024-03-08 16:12:57,700 - INFO - starting app
+2024-03-08 16:12:59,009 - INFO - starting app
+2024-03-08 16:13:05,912 - INFO - starting app
+2024-03-08 16:13:10,511 - INFO - starting app
+2024-03-08 16:13:12,775 - INFO - starting app
+2024-03-08 16:13:16,882 - INFO - starting app
+2024-03-08 16:13:25,383 - INFO - starting app
+2024-03-08 16:13:33,255 - INFO - starting app
+2024-03-08 16:13:43,881 - INFO - starting app
+2024-03-08 16:13:58,411 - INFO - starting app
+2024-03-08 16:14:02,171 - INFO - starting app
+2024-03-08 16:14:08,199 - INFO - starting app
+2024-03-08 16:14:10,533 - INFO - starting app
+2024-03-08 16:14:18,692 - INFO - starting app
+2024-03-08 16:14:19,974 - INFO - starting app
+2024-03-08 16:14:21,439 - INFO - starting app
+2024-03-08 16:14:28,762 - INFO - starting app
+2024-03-08 16:14:32,912 - INFO - starting app
+2024-03-08 16:14:37,220 - INFO - starting app
+2024-03-08 16:14:38,538 - INFO - starting app
+2024-03-08 16:14:46,551 - INFO - starting app
+2024-03-08 16:14:51,689 - INFO - starting app
+2024-03-08 16:14:54,642 - INFO - starting app
+2024-03-08 16:14:58,964 - INFO - starting app
+2024-03-08 16:15:02,666 - INFO - starting app
+2024-03-08 16:15:04,133 - INFO - starting app
+2024-03-08 16:15:05,949 - INFO - starting app
+2024-03-08 16:15:30,693 - INFO - Starting ................
+2024-03-08 16:15:30,702 - INFO - ended. process_time: 0.00898122787475586
+2024-03-08 16:16:03,059 - INFO - starting app
+2024-03-08 16:16:53,466 - INFO - Starting ................
+2024-03-08 16:16:53,471 - INFO - ended. process_time: 0.0029845237731933594
+2024-03-08 21:27:38,618 - INFO - starting app
+2024-03-08 21:27:44,036 - INFO - Starting ................
+2024-03-08 21:27:44,036 - INFO - ended. process_time: 0.0
+2024-03-08 21:27:44,351 - INFO - Starting ................
+2024-03-08 21:27:44,372 - INFO - ended. process_time: 0.02041339874267578
+2024-03-08 21:27:55,700 - INFO - Starting ................
+2024-03-08 21:27:55,703 - INFO - ended. process_time: 0.002415895462036133
+2024-03-08 21:28:54,901 - INFO - Starting ................
+2024-03-08 21:28:54,904 - ERROR - An error occurred while processing
+2024-03-08 21:31:54,363 - INFO - starting app
+2024-03-08 21:32:01,413 - INFO - starting app
+2024-03-08 21:35:17,405 - INFO - starting app
+2024-03-08 21:36:20,054 - INFO - starting app
+2024-03-08 21:36:24,802 - INFO - Starting ................
+2024-03-08 21:36:24,802 - INFO - ended. process_time: 0.0
+2024-03-08 21:36:25,090 - INFO - Starting ................
+2024-03-08 21:36:25,090 - INFO - ended. process_time: 0.0
+2024-03-08 21:36:39,400 - INFO - starting app
+2024-03-08 21:36:41,340 - INFO - starting app
+2024-03-08 21:36:44,078 - INFO - Starting ................
+2024-03-08 21:36:44,081 - INFO - ended. process_time: 0.003181934356689453
+2024-03-08 21:36:44,275 - INFO - Starting ................
+2024-03-08 21:36:44,295 - INFO - ended. process_time: 0.016671419143676758
+2024-03-08 21:37:12,642 - INFO - Starting ................
+2024-03-08 21:37:12,650 - ERROR - An error occurred while processing
+2024-03-08 21:37:42,907 - INFO - starting app
+2024-03-08 21:37:44,863 - INFO - starting app
+2024-03-08 21:37:49,500 - INFO - starting app
+2024-03-08 21:37:56,988 - INFO - starting app
+2024-03-08 21:38:08,702 - INFO - Starting ................
+2024-03-08 21:38:08,709 - INFO - ended. process_time: 0.007341623306274414
+2024-03-08 21:38:08,973 - INFO - Starting ................
+2024-03-08 21:38:08,991 - INFO - ended. process_time: 0.018181324005126953
+2024-03-08 21:46:24,144 - INFO - Starting ................
+2024-03-08 21:46:24,149 - INFO - ended. process_time: 0.0038900375366210938
+2024-03-08 21:47:10,183 - INFO - Starting ................
+2024-03-08 21:47:10,185 - ERROR - An error occurred while processing
+2024-03-08 21:52:57,134 - INFO - starting app
+2024-03-08 21:52:59,767 - INFO - starting app
+2024-03-08 21:53:03,334 - INFO - starting app
+2024-03-08 21:53:04,546 - INFO - starting app
+2024-03-08 21:53:05,689 - INFO - starting app
+2024-03-08 21:53:12,296 - INFO - Starting ................
+2024-03-08 21:53:12,296 - INFO - ended. process_time: 0.0
+2024-03-08 21:53:12,531 - INFO - Starting ................
+2024-03-08 21:53:12,551 - INFO - ended. process_time: 0.01949000358581543
+2024-03-08 21:54:51,851 - INFO - Starting ................
+2024-03-08 21:54:51,854 - INFO - ended. process_time: 0.0029935836791992188
+2024-03-08 21:55:06,291 - INFO - Starting ................
+2024-03-08 21:55:06,293 - INFO - ended. process_time: 0.0009975433349609375
+2024-03-08 21:55:50,612 - INFO - Starting ................
+2024-03-08 21:55:50,614 - ERROR - An error occurred while processing
+2024-03-08 21:56:09,963 - INFO - Starting ................
+2024-03-08 21:56:09,964 - INFO - ended. process_time: 0.0010004043579101562
+2024-03-08 22:08:03,868 - INFO - starting app
+2024-03-08 22:09:11,184 - INFO - starting app
+2024-03-08 22:09:15,182 - INFO - starting app
+2024-03-08 22:09:18,054 - INFO - starting app
+2024-03-08 22:13:23,658 - INFO - starting app
+2024-03-08 22:13:32,255 - INFO - Starting ................
+2024-03-08 22:13:32,257 - INFO - ended. process_time: 0.0009987354278564453
+2024-03-08 22:13:32,662 - INFO - Starting ................
+2024-03-08 22:13:32,663 - INFO - ended. process_time: 0.0
+2024-03-08 22:14:19,324 - INFO - starting app
+2024-03-08 22:15:01,619 - INFO - starting app
+2024-03-08 22:19:36,792 - INFO - Starting ................
+2024-03-08 22:19:36,796 - INFO - ended. process_time: 0.0026743412017822266
+2024-03-08 22:19:37,229 - INFO - Starting ................
+2024-03-08 22:19:37,249 - INFO - ended. process_time: 0.01777362823486328
+2024-03-08 22:20:25,564 - INFO - Starting ................
+2024-03-08 22:20:25,568 - ERROR - An error occurred while processing
+2024-03-08 22:28:55,041 - INFO - starting app
+2024-03-08 22:28:56,841 - INFO - starting app
+2024-03-08 22:29:58,391 - INFO - starting app
+2024-03-08 22:30:03,060 - INFO - Starting ................
+2024-03-08 22:30:03,063 - INFO - ended. process_time: 0.0023622512817382812
+2024-03-08 22:30:03,364 - INFO - Starting ................
+2024-03-08 22:30:03,384 - INFO - ended. process_time: 0.01924753189086914
+2024-03-08 22:30:37,913 - INFO - Starting ................
+2024-03-08 22:30:37,917 - INFO - ended. process_time: 0.003592252731323242
+2024-03-08 22:30:48,181 - INFO - Starting ................
+2024-03-08 22:30:48,185 - INFO - ended. process_time: 0.0032227039337158203
+2024-03-08 22:31:25,939 - INFO - Starting ................
+2024-03-08 22:31:25,944 - ERROR - An error occurred while processing
+2024-03-08 22:33:25,320 - INFO - starting app
+2024-03-08 22:33:33,780 - INFO - starting app
+2024-03-08 22:33:49,688 - INFO - Starting ................
+2024-03-08 22:33:49,690 - INFO - ended. process_time: 0.0009968280792236328
+2024-03-08 22:33:50,022 - INFO - Starting ................
+2024-03-08 22:33:50,044 - INFO - ended. process_time: 0.01875472068786621
+2024-03-08 22:34:23,155 - INFO - Starting ................
+2024-03-08 22:34:23,166 - INFO - ended. process_time: 0.0019981861114501953
+2024-03-08 22:34:37,638 - INFO - Starting ................
+2024-03-08 22:34:37,641 - INFO - ended. process_time: 0.003170490264892578
+2024-03-08 22:35:20,189 - INFO - Starting ................
+2024-03-08 22:35:20,189 - ERROR - An error occurred while processing
+2024-03-08 22:49:32,132 - INFO - starting app
+2024-03-08 22:49:50,532 - INFO - starting app
+2024-03-08 22:50:24,973 - INFO - Starting ................
+2024-03-08 22:50:24,980 - INFO - ended. process_time: 0.002368927001953125
+2024-03-08 22:50:25,276 - INFO - Starting ................
+2024-03-08 22:50:25,297 - INFO - ended. process_time: 0.020045995712280273
+2024-03-08 22:51:03,628 - INFO - Starting ................
+2024-03-08 22:51:03,714 - ERROR - An error occurred while processing
+2024-03-09 06:44:35,599 - INFO - starting app
+2024-03-09 06:44:54,123 - INFO - Starting ................
+2024-03-09 06:44:54,140 - INFO - ended. process_time: 0.002991914749145508
+2024-03-09 06:44:54,657 - INFO - Starting ................
+2024-03-09 06:44:54,682 - INFO - ended. process_time: 0.02393627166748047
+2024-03-09 06:47:52,055 - INFO - Starting ................
+2024-03-09 06:47:52,061 - ERROR - An error occurred while processing
+2024-03-09 06:51:25,755 - INFO - Starting ................
+2024-03-09 06:51:25,758 - INFO - ended. process_time: 0.0019927024841308594
+2024-03-09 06:51:52,080 - INFO - Starting ................
+2024-03-09 06:51:52,082 - INFO - ended. process_time: 0.0019943714141845703
+2024-03-09 06:52:34,049 - INFO - Starting ................
+2024-03-09 06:52:34,051 - ERROR - An error occurred while processing
+2024-03-09 07:02:31,296 - INFO - Starting ................
+2024-03-09 07:02:31,298 - INFO - ended. process_time: 0.0009965896606445312
+2024-03-09 07:02:31,549 - INFO - Starting ................
+2024-03-09 07:02:31,551 - INFO - ended. process_time: 0.0009968280792236328
+2024-03-09 07:03:02,435 - INFO - Starting ................
+2024-03-09 07:03:02,438 - ERROR - An error occurred while processing
+2024-03-09 07:06:20,141 - INFO - starting app
+2024-03-09 07:06:24,460 - INFO - starting app
+2024-03-09 07:06:26,157 - INFO - starting app
+2024-03-09 07:07:50,735 - INFO - starting app
+2024-03-09 07:07:52,795 - INFO - starting app
+2024-03-09 07:07:54,674 - INFO - starting app
+2024-03-09 07:07:55,952 - INFO - starting app
+2024-03-09 07:08:02,499 - INFO - starting app
+2024-03-09 07:08:11,328 - INFO - starting app
+2024-03-09 07:08:14,370 - INFO - starting app
+2024-03-09 07:08:16,594 - INFO - starting app
+2024-03-09 07:08:24,225 - INFO - starting app
+2024-03-09 07:08:26,400 - INFO - starting app
+2024-03-09 07:08:29,433 - INFO - starting app
+2024-03-09 07:08:41,263 - INFO - starting app
+2024-03-09 07:08:43,531 - INFO - starting app
+2024-03-09 07:08:47,355 - INFO - starting app
+2024-03-09 07:08:48,725 - INFO - starting app
+2024-03-09 07:08:50,700 - INFO - starting app
+2024-03-09 07:08:57,306 - INFO - starting app
+2024-03-09 07:09:03,744 - INFO - starting app
+2024-03-09 07:09:05,048 - INFO - starting app
+2024-03-09 07:09:07,919 - INFO - starting app
+2024-03-09 07:09:12,636 - INFO - starting app
+2024-03-09 07:09:13,975 - INFO - starting app
+2024-03-09 07:09:15,103 - INFO - starting app
+2024-03-09 07:09:27,421 - INFO - Starting ................
+2024-03-09 07:09:27,421 - INFO - ended. process_time: 0.0
+2024-03-09 07:09:28,531 - INFO - Starting ................
+2024-03-09 07:09:28,543 - INFO - ended. process_time: 0.010666131973266602
+2024-03-09 07:09:55,270 - INFO - Starting ................
+2024-03-09 07:09:55,274 - INFO - ended. process_time: 0.003955841064453125
+2024-03-09 07:10:06,428 - INFO - Starting ................
+2024-03-09 07:10:06,430 - INFO - ended. process_time: 0.0010018348693847656
+2024-03-09 07:11:17,341 - INFO - Starting ................
+2024-03-09 07:11:17,345 - ERROR - An error occurred while processing
+2024-03-09 07:12:25,775 - INFO - starting app
+2024-03-09 07:12:29,801 - INFO - starting app
+2024-03-09 07:12:36,465 - INFO - starting app
+2024-03-09 07:12:37,865 - INFO - starting app
+2024-03-09 07:12:45,734 - INFO - Starting ................
+2024-03-09 07:12:45,745 - INFO - ended. process_time: 0.011574506759643555
+2024-03-09 07:12:46,818 - INFO - Starting ................
+2024-03-09 07:12:46,837 - INFO - ended. process_time: 0.01762700080871582
+2024-03-09 07:13:17,508 - INFO - Starting ................
+2024-03-09 07:13:17,513 - ERROR - An error occurred while processing
+2024-03-09 07:15:18,644 - INFO - starting app
+2024-03-09 07:15:29,865 - INFO - starting app
+2024-03-09 07:15:31,072 - INFO - starting app
+2024-03-09 07:15:37,928 - INFO - Starting ................
+2024-03-09 07:15:37,928 - INFO - ended. process_time: 0.0
+2024-03-09 07:15:38,927 - INFO - Starting ................
+2024-03-09 07:15:38,949 - INFO - ended. process_time: 0.022190332412719727
+2024-03-09 07:16:09,791 - INFO - Starting ................
+2024-03-09 07:16:09,799 - ERROR - An error occurred while processing
+2024-03-09 07:16:23,285 - INFO - starting app
+2024-03-09 07:16:34,131 - INFO - starting app
+2024-03-09 07:16:35,513 - INFO - starting app
+2024-03-09 07:16:40,182 - INFO - Starting ................
+2024-03-09 07:16:40,195 - INFO - ended. process_time: 0.0
+2024-03-09 07:16:41,369 - INFO - Starting ................
+2024-03-09 07:16:41,387 - INFO - ended. process_time: 0.017960548400878906
+2024-03-09 07:17:21,545 - INFO - Starting ................
+2024-03-09 07:17:21,551 - ERROR - An error occurred while processing
+2024-03-09 07:17:56,820 - INFO - starting app
+2024-03-09 07:18:04,270 - INFO - starting app
+2024-03-09 07:18:06,499 - INFO - starting app
+2024-03-09 07:18:10,478 - INFO - starting app
+2024-03-09 07:18:11,920 - INFO - starting app
+2024-03-09 07:18:13,095 - INFO - starting app
+2024-03-09 07:18:20,974 - INFO - Starting ................
+2024-03-09 07:18:20,976 - INFO - ended. process_time: 0.0009963512420654297
+2024-03-09 07:18:21,988 - INFO - Starting ................
+2024-03-09 07:18:22,003 - INFO - ended. process_time: 0.01396322250366211
+2024-03-09 07:18:52,647 - INFO - Starting ................
+2024-03-09 07:18:52,654 - ERROR - An error occurred while processing
+2024-03-09 07:19:16,293 - INFO - starting app
+2024-03-09 07:19:20,255 - INFO - starting app
+2024-03-09 07:19:31,405 - INFO - starting app
+2024-03-09 07:19:35,037 - INFO - starting app
+2024-03-09 07:19:36,416 - INFO - starting app
+2024-03-09 07:19:42,690 - INFO - starting app
+2024-03-09 07:19:48,904 - INFO - starting app
+2024-03-09 07:19:55,765 - INFO - starting app
+2024-03-09 07:19:57,664 - INFO - starting app
+2024-03-09 07:20:08,367 - INFO - starting app
+2024-03-09 07:20:12,500 - INFO - starting app
+2024-03-09 07:20:16,170 - INFO - starting app
+2024-03-09 07:20:17,530 - INFO - starting app
+2024-03-09 07:20:22,929 - INFO - Starting ................
+2024-03-09 07:20:22,931 - INFO - ended. process_time: 0.0009989738464355469
+2024-03-09 07:20:24,070 - INFO - Starting ................
+2024-03-09 07:20:24,082 - INFO - ended. process_time: 0.011199951171875
+2024-03-09 07:20:52,351 - INFO - Starting ................
+2024-03-09 07:20:52,355 - ERROR - An error occurred while processing
+2024-03-09 07:21:43,830 - INFO - starting app
+2024-03-09 07:21:53,239 - INFO - starting app
+2024-03-09 07:21:54,562 - INFO - starting app
+2024-03-09 07:21:59,852 - INFO - Starting ................
+2024-03-09 07:21:59,853 - INFO - ended. process_time: 0.000997304916381836
+2024-03-09 07:22:00,985 - INFO - Starting ................
+2024-03-09 07:22:01,000 - INFO - ended. process_time: 0.013963699340820312
+2024-03-09 07:22:35,139 - INFO - Starting ................
+2024-03-09 07:22:35,143 - ERROR - An error occurred while processing
+2024-03-09 07:24:00,526 - INFO - starting app
+2024-03-09 07:24:03,766 - INFO - starting app
+2024-03-09 07:24:17,531 - INFO - starting app
+2024-03-09 07:24:19,327 - INFO - starting app
+2024-03-09 07:24:25,367 - INFO - Starting ................
+2024-03-09 07:24:25,371 - INFO - ended. process_time: 0.0037457942962646484
+2024-03-09 07:24:26,184 - INFO - Starting ................
+2024-03-09 07:24:26,184 - INFO - ended. process_time: 0.0
+2024-03-09 07:24:27,260 - INFO - Starting ................
+2024-03-09 07:24:27,284 - INFO - ended. process_time: 0.019942522048950195
+2024-03-09 07:25:00,332 - INFO - Starting ................
+2024-03-09 07:25:00,336 - ERROR - An error occurred while processing
+2024-03-09 07:25:28,636 - INFO - starting app
+2024-03-09 07:25:38,024 - INFO - starting app
+2024-03-09 07:25:39,331 - INFO - starting app
+2024-03-09 07:25:47,772 - INFO - starting app
+2024-03-09 07:25:48,880 - INFO - starting app
+2024-03-09 07:26:27,583 - INFO - starting app
+2024-03-09 07:26:32,316 - INFO - starting app
+2024-03-09 07:26:39,220 - INFO - starting app
+2024-03-09 07:26:40,422 - INFO - starting app
+2024-03-09 07:32:31,007 - INFO - starting app
+2024-03-09 07:32:32,626 - INFO - starting app
+2024-03-09 07:32:37,544 - INFO - starting app
+2024-03-09 07:32:39,301 - INFO - starting app
+2024-03-09 07:32:44,188 - INFO - starting app
+2024-03-09 07:32:46,207 - INFO - starting app
+2024-03-09 07:32:48,527 - INFO - starting app
+2024-03-09 07:32:50,356 - INFO - starting app
+2024-03-09 07:32:52,331 - INFO - starting app
+2024-03-09 07:32:53,823 - INFO - starting app
+2024-03-09 07:33:00,136 - INFO - Starting ................
+2024-03-09 07:33:00,138 - INFO - ended. process_time: 0.0009968280792236328
+2024-03-09 07:33:01,372 - INFO - Starting ................
+2024-03-09 07:33:01,384 - INFO - ended. process_time: 0.0109710693359375
+2024-03-09 07:33:28,272 - INFO - Starting ................
+2024-03-09 07:33:28,277 - ERROR - An error occurred while processing
+2024-03-09 07:33:51,713 - INFO - starting app
+2024-03-09 07:34:07,240 - INFO - Starting ................
+2024-03-09 07:34:07,242 - INFO - ended. process_time: 0.0009980201721191406
+2024-03-09 07:34:07,945 - INFO - Starting ................
+2024-03-09 07:34:07,954 - INFO - ended. process_time: 0.009046077728271484
+2024-03-09 07:34:09,073 - INFO - Starting ................
+2024-03-09 07:34:09,090 - INFO - ended. process_time: 0.015375852584838867
+2024-03-09 07:34:45,138 - INFO - Starting ................
+2024-03-09 07:34:45,143 - ERROR - An error occurred while processing
+2024-03-09 07:37:46,059 - INFO - starting app
+2024-03-09 07:37:49,460 - INFO - starting app
+2024-03-09 07:38:59,689 - INFO - starting app
+2024-03-09 07:39:00,800 - INFO - starting app
+2024-03-09 07:39:07,779 - INFO - starting app
+2024-03-09 07:39:16,003 - INFO - Starting ................
+2024-03-09 07:39:16,004 - INFO - ended. process_time: 0.0009984970092773438
+2024-03-09 07:39:17,077 - INFO - Starting ................
+2024-03-09 07:39:17,091 - INFO - ended. process_time: 0.013962984085083008
+2024-03-09 07:39:43,294 - INFO - Starting ................
+2024-03-09 07:39:43,322 - INFO - ended. process_time: 0.026742935180664062
+2024-03-09 07:40:03,410 - INFO - Starting ................
+2024-03-09 07:40:03,412 - INFO - ended. process_time: 0.001459360122680664
+2024-03-09 07:40:50,724 - INFO - starting app
+2024-03-09 07:40:52,680 - INFO - starting app
+2024-03-09 07:42:53,442 - INFO - starting app
+2024-03-09 07:42:58,740 - INFO - starting app
+2024-03-09 07:55:58,467 - INFO - starting app
+2024-03-09 07:56:17,159 - INFO - starting app
+2024-03-09 07:56:18,392 - INFO - starting app
+2024-03-09 07:56:24,244 - INFO - starting app
+2024-03-09 07:56:58,392 - INFO - starting app
+2024-03-09 07:57:27,725 - INFO - starting app
+2024-03-09 08:07:57,692 - INFO - starting app
+2024-03-09 08:08:01,043 - INFO - starting app
+2024-03-09 08:08:02,951 - INFO - starting app
+2024-03-09 08:09:56,399 - INFO - starting app
+2024-03-09 08:10:02,507 - INFO - starting app
+2024-03-09 08:10:11,581 - INFO - starting app
+2024-03-09 08:10:19,038 - INFO - starting app
+2024-03-09 08:10:20,916 - INFO - starting app
+2024-03-09 08:10:22,054 - INFO - starting app
+2024-03-09 08:22:42,755 - INFO - starting app
+2024-03-09 08:22:45,024 - INFO - starting app
+2024-03-09 08:23:55,399 - INFO - starting app
+2024-03-09 08:23:56,638 - INFO - starting app
+2024-03-09 08:23:59,809 - INFO - starting app
+2024-03-09 08:24:03,259 - INFO - starting app
+2024-03-09 08:24:04,402 - INFO - starting app
+2024-03-09 08:24:05,619 - INFO - starting app
+2024-03-09 08:24:20,677 - INFO - Starting ................
+2024-03-09 08:24:20,677 - INFO - ended. process_time: 0.0
+2024-03-09 08:24:21,963 - INFO - Starting ................
+2024-03-09 08:24:21,963 - INFO - ended. process_time: 0.0
+2024-03-09 08:24:25,177 - INFO - Starting ................
+2024-03-09 08:24:25,177 - INFO - ended. process_time: 0.0
+2024-03-09 08:24:26,234 - INFO - Starting ................
+2024-03-09 08:24:26,249 - INFO - ended. process_time: 0.01399850845336914
+2024-03-09 08:25:37,795 - INFO - Starting ................
+2024-03-09 08:25:37,802 - ERROR - An error occurred while processing
+2024-03-09 08:26:14,599 - INFO - starting app
+2024-03-09 08:26:51,690 - INFO - starting app
+2024-03-09 08:26:55,323 - INFO - Starting ................
+2024-03-09 08:26:55,324 - INFO - ended. process_time: 0.0009961128234863281
+2024-03-09 08:26:56,308 - INFO - Starting ................
+2024-03-09 08:26:56,322 - INFO - ended. process_time: 0.01396322250366211
+2024-03-09 08:27:45,517 - INFO - Starting ................
+2024-03-09 08:27:45,586 - ERROR - An error occurred while processing
+2024-03-09 08:27:54,752 - INFO - Starting ................
+2024-03-09 08:27:54,785 - INFO - ended. process_time: 0.031929731369018555
+2024-03-09 08:35:13,525 - INFO - starting app
+2024-03-09 08:35:19,020 - INFO - starting app
+2024-03-09 08:35:24,216 - INFO - Starting ................
+2024-03-09 08:35:24,217 - INFO - ended. process_time: 0.0009989738464355469
+2024-03-09 08:35:25,268 - INFO - Starting ................
+2024-03-09 08:35:25,276 - INFO - ended. process_time: 0.007979154586791992
+2024-03-09 08:36:03,306 - INFO - Starting ................
+2024-03-09 08:36:03,309 - ERROR - An error occurred while processing
+2024-03-09 08:36:31,993 - INFO - starting app
+2024-03-09 08:36:35,923 - INFO - starting app
+2024-03-09 08:36:37,437 - INFO - starting app
+2024-03-09 08:36:43,514 - INFO - starting app
+2024-03-09 08:36:50,983 - INFO - starting app
+2024-03-09 08:36:56,660 - INFO - starting app
+2024-03-09 08:37:03,724 - INFO - starting app
+2024-03-09 08:37:07,907 - INFO - starting app
+2024-03-09 08:37:15,735 - INFO - starting app
+2024-03-09 08:37:17,850 - INFO - starting app
+2024-03-09 08:37:19,650 - INFO - starting app
+2024-03-09 08:37:23,200 - INFO - starting app
+2024-03-09 08:37:27,887 - INFO - starting app
+2024-03-09 08:37:29,580 - INFO - starting app
+2024-03-09 08:37:32,360 - INFO - starting app
+2024-03-09 08:37:34,186 - INFO - starting app
+2024-03-09 08:37:38,213 - INFO - starting app
+2024-03-09 08:37:40,762 - INFO - starting app
+2024-03-09 08:37:47,930 - INFO - starting app
+2024-03-09 08:37:52,359 - INFO - Starting ................
+2024-03-09 08:37:52,364 - INFO - ended. process_time: 0.0
+2024-03-09 08:37:53,511 - INFO - Starting ................
+2024-03-09 08:37:53,525 - INFO - ended. process_time: 0.013963937759399414
+2024-03-09 08:38:03,307 - INFO - Starting ................
+2024-03-09 08:38:03,307 - INFO - ended. process_time: 0.0
+2024-03-09 08:39:20,805 - INFO - Starting ................
+2024-03-09 08:39:20,809 - ERROR - An error occurred while processing
+2024-03-09 08:39:52,922 - INFO - starting app
+2024-03-09 08:39:55,825 - INFO - starting app
+2024-03-09 08:39:59,365 - INFO - starting app
+2024-03-09 08:40:03,736 - INFO - starting app
+2024-03-09 08:40:06,114 - INFO - starting app
+2024-03-09 08:40:08,584 - INFO - starting app
+2024-03-09 08:42:43,741 - INFO - starting app
+2024-03-09 08:42:51,895 - INFO - Starting ................
+2024-03-09 08:42:51,897 - INFO - ended. process_time: 0.0019958019256591797
+2024-03-09 08:42:52,918 - INFO - Starting ................
+2024-03-09 08:42:52,931 - INFO - ended. process_time: 0.013166666030883789
+2024-03-09 08:43:33,804 - INFO - Starting ................
+2024-03-09 08:43:33,806 - ERROR - An error occurred while processing
+2024-03-09 08:44:17,015 - INFO - Starting ................
+2024-03-09 08:44:17,018 - WARNING - Product is no more available
+2024-03-09 08:44:17,019 - INFO - ended. process_time: 0.0027647018432617188
+2024-03-09 08:44:52,057 - INFO - starting app
+2024-03-09 08:47:33,291 - INFO - starting app
+2024-03-09 08:47:36,894 - INFO - starting app
+2024-03-09 08:47:41,860 - INFO - starting app
+2024-03-09 08:47:51,316 - INFO - starting app
+2024-03-09 08:48:44,184 - INFO - starting app
+2024-03-09 08:48:51,853 - INFO - starting app
+2024-03-09 08:48:54,409 - INFO - starting app
+2024-03-09 08:49:01,024 - INFO - starting app
+2024-03-09 08:49:05,802 - INFO - starting app
+2024-03-09 08:49:07,731 - INFO - starting app
+2024-03-09 08:49:22,827 - INFO - starting app
+2024-03-09 08:49:31,343 - INFO - starting app
+2024-03-09 08:49:37,386 - INFO - starting app
+2024-03-09 08:50:28,201 - INFO - starting app
+2024-03-09 08:53:24,522 - INFO - starting app
+2024-03-09 08:53:27,462 - INFO - starting app
+2024-03-09 08:54:40,537 - INFO - starting app
+2024-03-09 08:54:42,891 - INFO - starting app
+2024-03-09 08:55:03,952 - INFO - Starting ................
+2024-03-09 08:55:03,960 - INFO - ended. process_time: 0.004965305328369141
+2024-03-09 08:55:05,418 - INFO - Starting ................
+2024-03-09 08:55:05,428 - INFO - ended. process_time: 0.00872039794921875
+2024-03-09 08:55:59,676 - INFO - Starting ................
+2024-03-09 08:55:59,680 - ERROR - An error occurred while processing
+2024-03-09 08:57:04,635 - INFO - Starting ................
+2024-03-09 08:57:04,646 - ERROR - An error occurred while processing
+2024-03-09 08:57:18,502 - INFO - starting app
+2024-03-09 08:58:25,465 - INFO - starting app
+2024-03-09 08:58:28,228 - INFO - starting app
+2024-03-09 08:58:31,490 - INFO - starting app
+2024-03-09 08:58:40,726 - INFO - starting app
+2024-03-09 08:58:43,207 - INFO - starting app
+2024-03-09 08:58:45,982 - INFO - starting app
+2024-03-09 08:58:52,184 - INFO - starting app
+2024-03-09 08:58:54,675 - INFO - starting app
+2024-03-09 08:58:57,523 - INFO - starting app
+2024-03-09 08:59:01,600 - INFO - starting app
+2024-03-09 08:59:01,737 - INFO - Starting ................
+2024-03-09 08:59:01,741 - INFO - ended. process_time: 0.0013279914855957031
+2024-03-09 08:59:03,083 - INFO - Starting ................
+2024-03-09 08:59:03,102 - INFO - ended. process_time: 0.018501758575439453
+2024-03-09 08:59:06,028 - INFO - Starting ................
+2024-03-09 08:59:06,034 - INFO - ended. process_time: 0.0019960403442382812
+2024-03-09 08:59:07,384 - INFO - Starting ................
+2024-03-09 08:59:07,386 - INFO - ended. process_time: 0.0014767646789550781
+2024-03-09 08:59:52,608 - INFO - Starting ................
+2024-03-09 08:59:52,613 - ERROR - An error occurred while processing
+2024-03-09 09:01:43,746 - INFO - starting app
+2024-03-09 09:01:48,981 - INFO - Starting ................
+2024-03-09 09:01:48,982 - INFO - ended. process_time: 0.0
+2024-03-09 09:01:50,598 - INFO - Starting ................
+2024-03-09 09:01:50,618 - INFO - ended. process_time: 0.01869368553161621
+2024-03-09 09:02:22,928 - INFO - Starting ................
+2024-03-09 09:02:22,935 - ERROR - An error occurred while processing
+2024-03-09 09:03:06,084 - INFO - Starting ................
+2024-03-09 09:03:06,091 - ERROR - An error occurred while processing
+2024-03-09 09:03:36,856 - INFO - starting app
+2024-03-09 09:03:51,459 - INFO - Starting ................
+2024-03-09 09:03:51,461 - INFO - ended. process_time: 0.001650094985961914
+2024-03-09 09:03:52,904 - INFO - Starting ................
+2024-03-09 09:03:52,922 - INFO - ended. process_time: 0.017528295516967773
+2024-03-09 09:04:35,420 - INFO - Starting ................
+2024-03-09 09:04:35,427 - ERROR - An error occurred while processing
+2024-03-09 12:58:54,367 - INFO - starting app
+2024-03-09 13:03:50,530 - INFO - starting app
+2024-03-09 13:03:53,866 - INFO - starting app
+2024-03-09 13:03:57,651 - INFO - starting app
+2024-03-09 13:03:59,194 - INFO - starting app
+2024-03-09 13:14:35,153 - INFO - starting app
+2024-03-09 13:14:42,144 - INFO - starting app
+2024-03-09 14:06:31,324 - INFO - starting app
+2024-03-09 14:06:33,775 - INFO - starting app
+2024-03-09 14:06:47,682 - INFO - starting app
+2024-03-09 14:06:49,724 - INFO - starting app
+2024-03-09 14:08:08,691 - INFO - starting app
+2024-03-09 14:17:02,559 - INFO - starting app
+2024-03-09 14:17:05,667 - INFO - starting app
+2024-03-09 14:23:02,751 - INFO - starting app
+2024-03-09 14:23:05,273 - INFO - starting app
+2024-03-09 14:23:07,655 - INFO - starting app
+2024-03-09 14:23:10,077 - INFO - starting app
+2024-03-09 14:23:11,941 - INFO - starting app
+2024-03-09 14:23:15,629 - INFO - starting app
+2024-03-09 14:23:17,411 - INFO - starting app
+2024-03-09 14:23:24,795 - INFO - starting app
+2024-03-09 14:23:28,339 - INFO - starting app
+2024-03-09 14:24:17,379 - INFO - starting app
+2024-03-09 14:25:10,626 - INFO - starting app
+2024-03-09 14:25:13,102 - INFO - starting app
+2024-03-09 14:25:16,127 - INFO - starting app
+2024-03-09 14:25:18,577 - INFO - starting app
+2024-03-09 14:37:17,180 - INFO - starting app
+2024-03-09 14:37:37,690 - INFO - starting app
+2024-03-09 14:37:41,147 - INFO - starting app
+2024-03-09 14:37:45,372 - INFO - starting app
+2024-03-09 14:38:50,146 - INFO - starting app
+2024-03-09 14:39:29,558 - INFO - starting app
+2024-03-09 14:39:39,822 - INFO - Starting ................
+2024-03-09 14:39:39,825 - INFO - ended. process_time: 0.0019931793212890625
+2024-03-09 14:39:41,275 - INFO - Starting ................
+2024-03-09 14:39:41,293 - INFO - ended. process_time: 0.016644716262817383
+2024-03-09 14:39:58,713 - INFO - Starting ................
+2024-03-09 14:39:58,777 - INFO - ended. process_time: 0.06316614151000977
+2024-03-09 14:40:54,957 - INFO - Starting ................
+2024-03-09 14:40:54,961 - ERROR - An error occurred while processing
+2024-03-09 14:43:48,118 - INFO - starting app
+2024-03-09 14:43:51,113 - INFO - starting app
+2024-03-09 14:44:01,730 - INFO - Starting ................
+2024-03-09 14:44:01,732 - INFO - ended. process_time: 0.0009982585906982422
+2024-03-09 14:44:03,244 - INFO - Starting ................
+2024-03-09 14:44:03,260 - INFO - ended. process_time: 0.016227245330810547
+2024-03-09 14:44:15,532 - INFO - Starting ................
+2024-03-09 14:44:15,545 - INFO - ended. process_time: 0.011810064315795898
+2024-03-09 14:45:05,981 - INFO - Starting ................
+2024-03-09 14:45:05,984 - INFO - ended. process_time: 0.0022182464599609375
+2024-03-09 14:45:23,128 - INFO - Starting ................
+2024-03-09 14:45:23,128 - ERROR - An error occurred while processing
+2024-03-09 14:45:31,032 - INFO - Starting ................
+2024-03-09 14:45:31,033 - ERROR - An error occurred while processing
+2024-03-09 14:46:02,154 - INFO - Starting ................
+2024-03-09 14:46:02,158 - ERROR - An error occurred while processing
+2024-03-09 14:46:13,288 - INFO - Starting ................
+2024-03-09 14:46:13,292 - INFO - ended. process_time: 0.001453399658203125
+2024-03-09 14:46:14,671 - INFO - Starting ................
+2024-03-09 14:46:14,671 - INFO - ended. process_time: 0.0
+2024-03-09 14:47:04,239 - INFO - starting app
+2024-03-09 14:47:20,777 - INFO - starting app
+2024-03-09 14:47:24,774 - INFO - starting app
+2024-03-09 14:47:28,904 - INFO - starting app
+2024-03-09 21:11:54,900 - INFO - starting app
+2024-03-09 22:12:50,474 - INFO - starting app
+2024-03-09 22:12:55,271 - INFO - starting app
+2024-03-09 22:12:58,052 - INFO - starting app
+2024-03-09 22:13:01,523 - INFO - starting app
+2024-03-09 22:13:02,916 - INFO - starting app
+2024-03-09 22:13:10,878 - INFO - starting app
+2024-03-09 22:13:16,957 - INFO - starting app
+2024-03-09 22:13:18,159 - INFO - starting app
+2024-03-09 22:13:24,779 - INFO - Starting ................
+2024-03-09 22:13:24,788 - INFO - ended. process_time: 0.008974790573120117
+2024-03-09 22:13:25,364 - INFO - Starting ................
+2024-03-09 22:13:25,382 - INFO - ended. process_time: 0.016950130462646484
+2024-03-09 22:14:03,645 - INFO - Starting ................
+2024-03-09 22:14:03,654 - INFO - ended. process_time: 0.008978128433227539
+2024-03-09 22:14:21,320 - INFO - Starting ................
+2024-03-09 22:14:21,358 - INFO - ended. process_time: 0.036902666091918945
+2024-03-09 22:15:48,859 - INFO - starting app
+2024-03-09 22:15:50,487 - INFO - starting app
+2024-03-09 22:15:51,663 - INFO - starting app
+2024-03-09 22:16:40,049 - INFO - starting app
+2024-03-09 22:16:43,170 - INFO - starting app
+2024-03-09 22:16:44,655 - INFO - starting app
+2024-03-09 22:16:53,176 - INFO - starting app
+2024-03-09 22:16:55,882 - INFO - starting app
+2024-03-09 22:16:57,352 - INFO - starting app
+2024-03-09 22:16:58,501 - INFO - starting app
+2024-03-09 22:17:09,195 - INFO - starting app
+2024-03-09 22:17:35,654 - INFO - starting app
+2024-03-09 22:17:37,402 - INFO - starting app
+2024-03-09 22:17:49,147 - INFO - starting app
+2024-03-09 22:17:51,294 - INFO - starting app
+2024-03-09 22:18:07,263 - INFO - starting app
+2024-03-09 22:18:08,525 - INFO - starting app
+2024-03-09 22:19:42,714 - INFO - starting app
+2024-03-09 22:19:57,780 - INFO - starting app
+2024-03-09 22:20:00,767 - INFO - starting app
+2024-03-09 22:21:29,412 - INFO - starting app
+2024-03-09 22:21:34,699 - INFO - starting app
+2024-03-09 22:21:36,195 - INFO - starting app
+2024-03-09 22:21:39,405 - INFO - starting app
+2024-03-09 22:21:40,714 - INFO - starting app
+2024-03-09 22:21:46,005 - INFO - starting app
+2024-03-09 22:21:48,263 - INFO - starting app
+2024-03-09 22:21:49,835 - INFO - starting app
+2024-03-09 22:21:52,047 - INFO - starting app
+2024-03-09 22:22:01,311 - INFO - starting app
+2024-03-09 22:22:27,097 - INFO - starting app
+2024-03-09 22:22:30,409 - INFO - starting app
+2024-03-09 22:22:38,328 - INFO - starting app
+2024-03-09 22:22:44,556 - INFO - starting app
+2024-03-09 22:22:51,678 - INFO - starting app
+2024-03-09 22:22:54,927 - INFO - starting app
+2024-03-09 22:22:58,776 - INFO - starting app
+2024-03-09 22:23:00,830 - INFO - starting app
+2024-03-09 22:23:02,629 - INFO - starting app
+2024-03-09 22:23:03,786 - INFO - starting app
+2024-03-09 22:26:27,245 - INFO - starting app
+2024-03-09 22:26:31,041 - INFO - starting app
+2024-03-09 22:26:38,909 - INFO - starting app
+2024-03-09 22:26:51,324 - INFO - starting app
+2024-03-09 22:26:52,568 - INFO - starting app
+2024-03-09 22:27:01,695 - INFO - starting app
+2024-03-09 22:27:03,698 - INFO - starting app
+2024-03-09 22:27:05,078 - INFO - starting app
+2024-03-09 22:27:06,785 - INFO - starting app
+2024-03-09 22:27:15,344 - INFO - starting app
+2024-03-09 22:27:16,751 - INFO - starting app
+2024-03-09 22:27:20,382 - INFO - starting app
+2024-03-09 22:27:22,961 - INFO - starting app
+2024-03-09 22:27:48,818 - INFO - starting app
+2024-03-09 22:27:54,888 - INFO - starting app
+2024-03-09 22:28:03,624 - INFO - starting app
+2024-03-09 22:28:05,737 - INFO - starting app
+2024-03-09 22:28:07,133 - INFO - starting app
+2024-03-09 22:28:24,576 - INFO - starting app
+2024-03-09 22:28:35,604 - INFO - starting app
+2024-03-09 22:28:37,183 - INFO - starting app
+2024-03-09 22:29:31,041 - INFO - starting app
+2024-03-09 22:29:54,224 - INFO - Starting ................
+2024-03-09 22:29:54,240 - INFO - ended. process_time: 0.014484882354736328
+2024-03-09 22:29:55,050 - INFO - Starting ................
+2024-03-09 22:29:55,058 - INFO - ended. process_time: 0.0075299739837646484
+2024-03-09 22:30:26,169 - INFO - Starting ................
+2024-03-09 22:30:26,173 - INFO - ended. process_time: 0.002870798110961914
+2024-03-09 22:31:45,586 - INFO - Starting ................
+2024-03-09 22:31:45,588 - INFO - ended. process_time: 0.0012853145599365234
+2024-03-09 22:31:58,243 - INFO - Starting ................
+2024-03-09 22:31:58,248 - INFO - ended. process_time: 0.0030143260955810547
